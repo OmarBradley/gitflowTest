@@ -1,4 +1,5 @@
 fun main() {
+    println("third")
     println("release note2")
     println("second")
     println("hotfix 1.0.1")
