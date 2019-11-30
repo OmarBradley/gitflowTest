@@ -1,4 +1,5 @@
 fun main() {
+    println("release note6-bug")
     println("release note6")
     println("hotfix 5.0.5")
     println("hotfix 5.0.4")
